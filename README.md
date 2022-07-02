@@ -5,7 +5,7 @@
 ### Description
 The exercises below are to be done during and following your viewing of the resources.  Please push your completed project to a repository on Github.  Provide the link to your repo. Each activity should be appropriately labeled in its own folder.
 
-**VERY EASY:**Create two variables and assign a number to each. Console log the difference between the numbers. Example output: “The difference between 6 and 2 is 4”
+**VERY EASY:** Create two variables and assign a number to each. Console log the difference between the numbers. Example output: “The difference between 6 and 2 is 4”
 
 **EASY:** Create two variables and assign a person’s name to each. Console log a statement that says which name is shorter or longer, and by how many characters. Example output: “The name Thomas is longer than John by 2 characters”
 
